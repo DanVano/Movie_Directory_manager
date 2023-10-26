@@ -1,6 +1,6 @@
 # Movie_Directory_manager
 
-This Python program is an efficient tool for managing and organizing a directory filled with movie files. Here are its key features:
+This Python program is still in development to add the ability to move files and folders into a new folder. It is an efficient tool for managing and organizing a directory filled with movie files. Here are its key features:
 
 Directory Walkthrough: The program traverses a specified directory and identifies movie files with .mp4, .mkv, or .avi extensions. Each of these movie files is then neatly placed into its own individual folder, ensuring an organized directory structure.
 
