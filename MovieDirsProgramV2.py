@@ -1,16 +1,3 @@
-        ### Scan library. Check if in folder or not.
-        ### If in folder
-        ### Check inside folder for movie file and subtitles
-
-        ### If not in folder
-            ### Make a folder in current directory with the name of the movie and place the file inside.
-
-        ### Place the movie folder in based alphabetically for easier search. A-D E-H
-        ### Perhaps T in it's own folder.
-
-        ### If A to D folder exists place file inside.
-        ### Else creat folder then move file over
-
 import os
 import shutil
 
