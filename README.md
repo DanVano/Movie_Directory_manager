@@ -1,11 +1,23 @@
 # Movie_Directory_manager
+In development
 
-This Python program is still in development to add the ability to move files and folders into a new folder. It is an efficient tool for managing and organizing a directory filled with movie files. Here are its key features:
+### About
+This Python program is a tool for managing and organizing a movie directory. It identifies movie files, organizes them into individual folders, searches for subtitles within subdirectories, and informs the user if a movie lacks an associated subtitle file. It ensures an organized movie library for easy location of movies and their subtitles.
 
-Directory Walkthrough: The program traverses a specified directory and identifies movie files with .mp4, .mkv, or .avi extensions. Each of these movie files is then neatly placed into its own individual folder, ensuring an organized directory structure.
+### How to use the program
+Install pip package   python3 -m pip install eyeD3. 
 
-Subdirectory Search and Organization: The program also searches within subdirectories of the main directory. If a subdirectory contains a movie file, the program will search for a corresponding subtitles file.
+Run the file. 
 
-Subtitle File Association: In addition to organizing movie files, the program also looks for subtitle files with the .srt extension. If a movie file does not have an associated subtitle file in the same directory or in a subdirectory within the movie’s folder the program informs the user.
+Input your Music folder directory or hit x for default 
 
-By performing these tasks, this Python program provides a comprehensive solution for managing your movie library, ensuring that each movie and its associated subtitle files are neatly organized and easy to locate.
+Input any extra website tags and song name tags or hit x for default.
+
+### Imports
+Built by importing eyed3 from https://eyed3.readthedocs.io/en/latest/
+
+
+### Project Status
+In development
+
+dvanovcan@gmail.com
